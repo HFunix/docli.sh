@@ -1,4 +1,5 @@
 docli.sh
+--------------------------------------------------------------------
 
 Utility that helps to handle the different docker-compose stacks more
 easily.
