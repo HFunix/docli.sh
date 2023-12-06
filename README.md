@@ -1,5 +1,8 @@
 docli.sh
 
+Utility that helps to handle the different docker-compose stacks more
+easily.
+
     Usage:  [COMMAND] ..[OPTIONS] .. [ARGS]
 
     Manage multiple docker-compose stacks with a single command.
