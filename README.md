@@ -3,6 +3,8 @@
 
 Utility that helps to handle the different docker-compose stacks more
 easily.
+
+
 --------------------------------------------------------------------
     Usage:  [COMMAND] ..[OPTIONS] .. [ARGS]
 
@@ -28,7 +30,7 @@ easily.
 
 ---------------------------------------------------------------------
 
-Change permission and check if docli.sh has changed
+## Change permission and check if docli.sh has changed
 
 -----------------------------------------------------------------------
 chmod +x docli.sh
