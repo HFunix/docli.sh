@@ -28,7 +28,6 @@ easily.
      docli up --context=group_2
      docli down --all
 
----------------------------------------------------------------------
 
 ### Change permission and check if docli.sh has changed
 
