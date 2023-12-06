@@ -28,7 +28,10 @@ easily.
 
 ---------------------------------------------------------------------
 
-Change permission and check if it has changed
-As I put at the top of this article, the following command gives the execution permission to a script.
-git update-index --chmod=+x script.sh
-git ls-tree head command shows the permissions like the below when a
+Change permission and check if docli.sh has changed
+
+-----------------------------------------------------------------------
+chmod +x docli.sh
+--------------------------------------------------------------------------
+
+
