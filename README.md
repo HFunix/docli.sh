@@ -1,6 +1,4 @@
-#docli
-
-
+docli.sh
 
     Usage:  [COMMAND] ..[OPTIONS] .. [ARGS]
 
