@@ -45,19 +45,19 @@ chmod +x docli.sh
 ./docli.sh --version
 
 ### Creates a new empty directory. The directory name will be the one
-passed within the context
+### passed within the context
 --------------------------------------------------------------------------
 
 ./docli.sh create --context=stack_1
 
 ### Passes the “docker-compose up -d” command to the
-specified context. Can be used with --all.
+### specified context. Can be used with --all.
 --------------------------------------------------------------------------
 
 ./docli.sh up --all
 
 ### Passes the “docker-compose up -d” command to the
-specified context. Can be used with --context=.
+### specified context. Can be used with --context=.
 --------------------------------------------------------------------------
 
 ./docli.sh up --context=group_3
