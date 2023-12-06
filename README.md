@@ -2,7 +2,8 @@
 
 
 
-    Usage: ${NOMSRC} [OPTION] … [ARGUMRNT] .. [DIRECTORY] …
+    Usage:  [COMMAND] ..[OPTIONS] .. [ARGS]
+
     Manage multiple docker-compose stacks with a single command.
 
     Options:
