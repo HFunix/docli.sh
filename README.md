@@ -30,7 +30,7 @@ easily.
 
 ---------------------------------------------------------------------
 
-## Change permission and check if docli.sh has changed
+### Change permission and check if docli.sh has changed
 
 -----------------------------------------------------------------------
 chmod +x docli.sh
@@ -38,8 +38,8 @@ chmod +x docli.sh
 
 ### display this help message and exit
 --------------------------------------------------------------------------
---------------------------------------------------------------------------
- ./docli.sh --help
+
+./docli.sh --help
 
 
 
