@@ -68,8 +68,7 @@ chmod +x docli.sh
 
 ./docli.sh down --all
 
-### Passes the “docker-compose down” command to the
-### specified context. Can be used with --context=.
+### Passes the “docker-compose down” command to the specified context. Can be used with --context=.
 --------------------------------------------------------------------------
 
 ./docli.sh down --context=group_3
