@@ -36,6 +36,9 @@ chmod +x docli.sh
 
  display this help message and exit
 
+
+ 
+
  --------------------------------------------------------------------------
  ./docli.sh --help
 
