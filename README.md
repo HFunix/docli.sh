@@ -26,3 +26,11 @@ easily.
      docli up --context=group_2
      docli down --all
 
+---------------------------------------------------------------------
+
+Prerequisites
+This is an example of how to list things you need to use the software and how to install them.
+
+npm
+npm install npm@latest -g
+Installation
